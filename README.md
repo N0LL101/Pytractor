@@ -12,7 +12,9 @@ To deploy this project run
   
  2- cd Pytractor
   
- 3- python3 pytractor.py
+ 3- pip3 install -r requirements.txt 
+ 
+ 4- python3 pytractor.py
 ```
 
 
