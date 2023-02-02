@@ -1,0 +1,7 @@
+requests
+bs4 
+re
+json 
+urllib.request
+os
+urllib.parse 
