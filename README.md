@@ -17,7 +17,7 @@ To deploy this project run
 
 
 ## Demo
-
+![](images/demo.png)
 
 
 ## Features
